@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\Object.h.obj",
+            "outputs": [
+                "C:\\Users\\Admin\\source\\repos\\Project1\\Project1\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Users\\Admin\\source\\repos\\Project1\\Project1\\x64\\Release\\Object.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "headers\\Object.h",
+                    "source-path": "c:\\users\\admin\\source\\repos\\project1\\project1\\headers\\object.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

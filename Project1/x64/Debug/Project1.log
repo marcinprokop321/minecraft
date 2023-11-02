@@ -1,0 +1,55 @@
+﻿  Scanning sources for module dependencies...
+  structures.cpp
+C:\Users\Admin\source\repos\Project1\Project1\headers\texture.h(68,48): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Project1\Project1\headers\texture.h(87,71): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Project1\Project1\headers\texture.h(88,73): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Project1\Project1\headers\texture.h(88,66): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Project1\Project1\headers\texture.h(88,59): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Project1\Project1\headers\texture.h(93,75): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Project1\Project1\headers\texture.h(93,68): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Project1\Project1\headers\texture.h(95,75): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Project1\Project1\headers\texture.h(95,68): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Admin\source\repos\Project1\Project1\headers\globalIncludes.hpp(22,29): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Admin\source\repos\Project1\Project1\headers\globalIncludes.hpp(23,29): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Admin\source\repos\Project1\Project1\headers\globalIncludes.hpp(61,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\source\repos\Project1\Project1\headers\Camera.h(27,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\Project1\Project1\headers\Camera.h(28,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\Project1\Project1\headers\Camera.h(32,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\Project1\Project1\headers\Camera.h(33,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\Admin\source\repos\Project1\x64\Debug\Project1.exe
