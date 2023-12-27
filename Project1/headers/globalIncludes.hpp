@@ -44,13 +44,10 @@ T clip(const T& n, const T& lower, const T& upper) {
 }
 static float get_degrees(float i_degrees)
 {
-	//Thank you, Stackoverflow!
 	return static_cast<float>(fmod(360 + fmod(i_degrees, 360), 360));
 }
 static float deg_to_rad(float i_degrees)
 {
-	//After googling I found out that smart people use radians because of calculus.
-	//I don't know what that word means so I'll keep using degrees.
 	return PI * i_degrees / 180;
 }
 static 	Texture3D* textures[1];
